@@ -4,10 +4,10 @@
   p {
     color: green;
   }
-  .paragraph1 {
+  .its a guessing game with ducks what more can you ask for, test your luck and see if you can guess how many ducks are there {
     font-size: 25px;
   }
-  .paragraph2 {
+  .a code that generates random shapes with a purpleish color {
     font-size: 25px;
   }
 </style>
