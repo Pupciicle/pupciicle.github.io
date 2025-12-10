@@ -13,10 +13,15 @@
 ### Java Script sight
 <p style="font-size:25px">guis guis guis placeholders</p>
 
-<img width="1496" height="950" alt="Screenshot_2025-10-29_181609" src="https://github.com/user-attachments/assets/2e8db29d-e661-4730-8d91-6c9c0e3371c4" />
+<img width="1600" height="950" alt="Screenshot_2025-10-29_181609" src="https://github.com/user-attachments/assets/2e8db29d-e661-4730-8d91-6c9c0e3371c4" />
 
 ### Detect image subject
 <p style="font-size:25px">guis guis guis placeholders</p>
 
 <img width="1496" height="950" alt="Screenshot_2025-11-19_172233" src="https://github.com/user-attachments/assets/58b8186a-150f-4893-80ab-6407f0737669" />
+
+### Climate change interactive work
+<p style="font-size:25px">guis guis guis placeholders</p>
+
+<img width="1496" height="950" alt="Screenshot_2025-12-10_000606" src="https://github.com/user-attachments/assets/6a2d1f21-080b-4e63-9664-c4589898bac1" />
 
