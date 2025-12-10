@@ -13,4 +13,10 @@
 ### Java Script sight
 <p style="font-size:25px">guis guis guis placeholders</p>
 
-<img width="1496" height="950" alt="Screenshot_2025-10-29_181609" src="https://github.com/user-attachments/assets/4f85c865-fb36-4093-a381-e27964259d15" />
+<img width="1496" height="950" alt="Screenshot_2025-10-29_181609" src="https://github.com/user-attachments/assets/2e8db29d-e661-4730-8d91-6c9c0e3371c4" />
+
+### Dedect image subject
+<p style="font-size:25px">guis guis guis placeholders</p>
+
+<img width="1496" height="950" alt="Screenshot_2025-11-19_172233" src="https://github.com/user-attachments/assets/58b8186a-150f-4893-80ab-6407f0737669" />
+
