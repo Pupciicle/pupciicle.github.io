@@ -6,4 +6,4 @@
 
 ### shape generator
 <p style="font-size: 100px;">a code that generates random shapes with a purpleish color</p>
-<img width="10" height="10" alt="Screenshot 2025-09-17 000030" src="https://github.com/user-attachments/assets/4f85c865-fb36-4093-a381-e27964259d15" />
+<img width="1000" height="750" alt="Screenshot 2025-09-17 000030" src="https://github.com/user-attachments/assets/4f85c865-fb36-4093-a381-e27964259d15" />
